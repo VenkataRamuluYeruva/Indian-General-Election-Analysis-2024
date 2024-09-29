@@ -6,7 +6,7 @@ This project is dedicated to analyzing the 2024 India General Election results. 
 
 ## Objectives
 
-**.Total Seats Analysis**: Understanding the total number of seats contested in each state.
+* **Total Seats Analysis**: Understanding the total number of seats contested in each state.
 
 **>Party-Wise Performance**: Identifying which parties and alliances (NDA, I.N.D.I.A., and others) won the most seats.
 
